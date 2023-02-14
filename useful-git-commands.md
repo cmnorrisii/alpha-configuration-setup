@@ -30,3 +30,8 @@
 - I can do this all day
 - You can't stop me
 - I will keep commiting
+
+### In summary
+- We started with some actual information, so focus on that
+- The rest of these commits are just for practice 
+- This is another list item because two list items isn't enough to justify a full list.
